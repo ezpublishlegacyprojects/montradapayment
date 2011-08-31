@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<software>
+    <metadata>
+        <name>montradapayment</name>
+        <version>1.0</version>
+        <copyright>Copyright (C) 2011 <![CDATA[<a href="http://www.all2e.com">all2e GmbH</a>]]></copyright>
+        <license>GNU General Public License v2.0</license>
+        <info_url>http://projects.ez.no/montradapayment</info_url>
+    </metadata>
+</software>
